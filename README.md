@@ -15,7 +15,7 @@ Picked up a dataset from Kaggle with 25,000 Netflix users and ran some SQL queri
 
 The dataset has 25,000 Netflix users with info like their country, subscription type (Basic, Standard, Premium), how many hours they watch, their favorite genre and last login date.
 
-I also created a second table called `countries` to store continent and region info so I could practice JOINs.
+There is also a second table that i created with the help of claude called `countries` to store continent and region info so I could practice JOINs. 
 
 ---
 
